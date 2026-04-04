@@ -20,9 +20,6 @@
 
 ![2024-10-04 (5)](https://github.com/user-attachments/assets/c1910af3-371e-485d-837b-e58aea1f0a2f)
 
-## User Profile Page
-
-![2024-10-05 (1)](https://github.com/user-attachments/assets/aced3c5c-26db-4e1b-985e-72665bd1beca)
 
 ## Cart Page
 
